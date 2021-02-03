@@ -1,0 +1,41 @@
+whiteboard!!!
+
+Create an application that checks if a completed Sudoku puzzle is “legal.” In other words, it should ensure the following rules are met:
+
+    [ ] Each row contains all numbers from 1 to 9 with no repeats.
+    [ ] Each column contains all numbers from 1 to 9 with no repeats.
+    [ ] Further Exploration: Each of the nine 3 x 3 grids contain all numbers from 1 to 9 with no repeats.
+
+Sudoku board will be a 2D array of arrays -
+Array will only contain positive integers 1-9 - no letters or invalid characters
+Array will not be empty
+Array = [[],[],[],[],[],[],[],[],[]]
+
+each array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
